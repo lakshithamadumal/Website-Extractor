@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
 
 # Target Website URL
-url = "https://hdwallpaperlankas.blogspot.com/"
+url = "Target-Website-URL"
 
 # Create folder for saving files
 os.makedirs("website_assets", exist_ok=True)
