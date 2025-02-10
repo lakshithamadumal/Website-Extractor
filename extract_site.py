@@ -51,3 +51,5 @@ for script in soup.find_all("script", src=True):
     download_file(js_url, js_folder)
 
 print("✅ Extraction Complete! HTML, CSS, and JS saved in 'website_assets' folder.")
+
+igh jfdiohoi98hth
