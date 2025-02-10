@@ -9,4 +9,3 @@ The extracted website files (HTML, CSS, JS) are saved in this folder.
 
 ✅ Happy coding! 😊
 
-fdgfdgdfghrfffdgfg fgfsg
