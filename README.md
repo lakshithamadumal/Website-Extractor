@@ -1,2 +1,12 @@
-# Website-Extractor
-A Python tool that helps you extract and download HTML, CSS, and JavaScript files from websites, saving them locally for offline use or further analysis. Whether you need to grab assets for web development or simply want to explore a website's structure, this tool makes it quick and easy. 🚀📂
+# 🌐 Website Asset Extractor 🚀
+
+A Python script to download full website assets (HTML, CSS, JS) from any URL! Perfect for web analysis & learning. 📚
+
+![Demo](https://img.shields.io/badge/🖥-Demo%20Ready-success) ![License](https://img.shields.io/badge/📃-MIT%20License-blue)
+
+## 🛠 Installation
+
+```bash
+git clone https://github.com/yourusername/website-asset-extractor.git
+cd website-asset-extractor
+pip install -r requirements.txt
