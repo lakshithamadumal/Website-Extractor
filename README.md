@@ -10,3 +10,5 @@ A Python script to download full website assets (HTML, CSS, JS) from any URL! Pe
 git clone https://github.com/yourusername/website-asset-extractor.git
 cd website-asset-extractor
 pip install -r requirements.txt
+
+gvhb
